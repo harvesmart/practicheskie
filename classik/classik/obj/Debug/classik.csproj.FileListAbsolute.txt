@@ -1,0 +1,7 @@
+C:\Users\harve\source\repos\classik\classik\obj\Debug\classik.csproj.AssemblyReference.cache
+C:\Users\harve\source\repos\classik\classik\obj\Debug\classik.csproj.CoreCompileInputs.cache
+C:\Users\harve\source\repos\classik\classik\bin\Debug\classik.exe.config
+C:\Users\harve\source\repos\classik\classik\bin\Debug\classik.exe
+C:\Users\harve\source\repos\classik\classik\bin\Debug\classik.pdb
+C:\Users\harve\source\repos\classik\classik\obj\Debug\classik.exe
+C:\Users\harve\source\repos\classik\classik\obj\Debug\classik.pdb
